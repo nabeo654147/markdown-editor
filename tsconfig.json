@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "outDir": "./dist/index.js",
+        "target": "ES2015",
+        "jsx": "react"
+    }
+}
